@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Indie game project
 - 🤔 I’m looking for help with ... OS
 - 💬 Ask me about ... Anything! 😆
-- 📫 How to reach me: ... Twitter: @KokkakNiphon
+- 📫 How to reach me: ... Twitter: @KokkakNiphon / Twitch.tv: Jinlamang
 - 😄 Pronouns: ... He/Him
