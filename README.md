@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... DucklingsEngine, Part-time Tech Artist at FINIFUGU && FRIENDS
-- 🌱 I’m currently learning ... C++, Flutter
+- 🔭 I’m currently working on ... Encoded War, Full-time Software Engineer at Earthshine Games
+- 🌱 I’m currently learning ... Physic Engine, React
 - 👯 I’m looking to collaborate on ... Indie game project
 - 🤔 I’m looking for help with ... OS
 - 💬 Ask me about ... Anything! 😆
